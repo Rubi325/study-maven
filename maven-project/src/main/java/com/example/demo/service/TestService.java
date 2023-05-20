@@ -1,5 +1,7 @@
 package com.example.demo.service;
 
-public class TestService {
+public interface TestService {
+
+	public void Example1();
 
 }
